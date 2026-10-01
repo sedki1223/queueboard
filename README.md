@@ -121,7 +121,7 @@ queueboard/
 ![QueueBoard Queue Management](screenshots/queue-management.png)
 
 ### Call Next
-![QueueBoard Call Next](screenshots/call-next.png)
+![QueueBoard Call Next](screenshots/calling-next.png)
 
 ## Project Status
 
